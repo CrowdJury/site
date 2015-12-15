@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="109.313px" height="99.75px" viewBox="0 0 109.313 99.75" enable-background="new 0 0 109.313 99.75" xml:space="preserve">
+<g id="foto" display="none">
+	
+		<image display="inline" overflow="visible" width="400" height="300" xlink:href="../Inspiración/artsebasov-lawya-icons_1x.png"  transform="matrix(1 0 0 1 -173.8125 -100.5)">
+	</image>
+</g>
+<g id="Justice_icon">
+	<g id="balanza">
+		<g id="soporte">
+			<path fill="#FFFFFF" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" d="M29.96,96.652
+				c0,0,23.389-11.068,47.612,0"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="53.766" y1="22.313" x2="53.766" y2="91.738"/>
+		</g>
+		<g id="eje">
+			<path fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" d="M62.536,11.452c0,4.843-3.927,8.771-8.77,8.771
+				s-8.771-3.928-8.771-8.771c0-4.84,3.928-8.771,8.771-8.771S62.536,6.612,62.536,11.452z"/>
+			<polyline fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" points="62.536,11.452 
+				90.938,11.452 105.137,38.183 			"/>
+			<polyline fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" points="44.161,11.452 
+				17.43,11.452 3.961,38.183 			"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" x1="77.572" y1="38.183" x2="90.938" y2="11.452"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" x1="34.659" y1="38.183" x2="17.43" y2="11.452"/>
+		</g>
+		<g id="pesas">
+			<path display="none" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M4.031,122.438
+				c0,0,7.01,11.808,14.313,0"/>
+			<path display="none" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M33.365,122.438
+				c0,0,7.01,11.808,14.313,0"/>
+			<path display="none" fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" d="M-19.813,39.333
+				c0.435,36.861,47.48,38.91,46.706,0"/>
+			<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M74.698,42.482
+				c0.302,25.629,33.012,27.053,32.474,0"/>
+			<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M2.178,42.482
+				c0.302,25.629,33.012,27.053,32.474,0"/>
+		</g>
+	</g>
+</g>
+</svg>

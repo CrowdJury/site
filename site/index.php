@@ -54,7 +54,7 @@ $mensaje="
 	<!--<script src="js/langpack/nonDynamic.js" charset="utf-8" type="text/javascript"></script>-->
 	<script type="text/javascript">
 		var lang = new Lang();
-		lang.dynamic('es', 'js/langpack/es.json');
+		lang.dynamic('es', '../js/langpack/es.json');
 		lang.init({
 			defaultLang: 'en'
 		});

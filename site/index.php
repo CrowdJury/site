@@ -370,6 +370,7 @@ $mensaje="
 						
 							</div>
        					<h3>Federico Ast</h3></a>
+       					<p>CEO</p>
        					
        				</div>
        				<div class="col-md-4 team_grid">
@@ -377,12 +378,15 @@ $mensaje="
 							<a href="ttps://twitter.com/asewrjugin"> <img src="../images/asewr.jpg" />
 							</div>
        					<h3>Alejandro Sewrjugin</h3></a>
+       					<p> Advisor </p>
        				</div>
        				<div class="col-md-4 team_grid">
        					<div class="view2">
 							<a href="https://twitter.com/GonzaStp"> <img src="../images/gstupe.jpg" />
 													</div>
        					<h3>Gonzalo Stupenengo</h3></a>
+
+       				<p> Communication Manager</p>
        						</div>
        				</div>
        			<div class="row text-center teams">
@@ -391,6 +395,7 @@ $mensaje="
 							 <a href="https://twitter.com/eliooses"><img src="https://pbs.twimg.com/profile_images/437690661035200512/szhR4ipx.png" />
 															</div>
        					<h3>Elio Oses</h3></a>
+       					<p> Blockchain Advisor </p>
        				
        				</div>
        		<div class="col-md-4 team_grid">
@@ -398,12 +403,14 @@ $mensaje="
 							<a href="https://twitter.com/fran_indio"> <img src="../images/fgomezs.jpeg" />
 							</div></a>
        					<h3>Francisco Gomez Salaverri</h3>
+       					<p> Developer </p>
        				</div>
        				<div class="col-md-4 team_grid">
        					<div class="view2">
 							<a href="https://twitter.com/Juancruzdimaio"> <img src="../images/jcdmaio.jpg" />
 												</div>
        					<h3>Juan Cruz Di Maio</h3></a>
+       					<p> Designer </p>
        					       				</div>
        				</div>
        		</div>

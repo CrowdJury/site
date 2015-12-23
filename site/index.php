@@ -1,4 +1,4 @@
- <?php
+<?php
 if(isset($_POST['boton'])){
  if(!empty($_POST['name']) AND !empty($_POST['email'])){
 
@@ -35,7 +35,7 @@ $mensaje="
 ?>
 	
 <!DOCTYPE HTML>
-	<html lang="en">
+	<html>
 	<head>
 		<title>CrowdJury - Justice For All</title>
 		<!-- Seo Position and Social -->
@@ -51,7 +51,6 @@ $mensaje="
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
 	<script src="../js/js.cookie.js" charset="utf-8" type="text/javascript"></script>
 	<script src="../js/jquery-lang.js" charset="utf-8" type="text/javascript"></script>
-	<!--<script src="js/langpack/nonDynamic.js" charset="utf-8" type="text/javascript"></script>-->
 	<script type="text/javascript">
 		var lang = new Lang();
 		lang.dynamic('es', '../js/langpack/es.json');
@@ -158,12 +157,12 @@ $mensaje="
 			        	
 			        					<p lang="en">A Judicial System for the Internet Era</p>
 			          		<div class="learn-button">
-			          			<a class="slide-btn scroll" href="#help">I Want to Help</a>
+			          			<a class="slide-btn scroll" href="#help" lang="en">I Want to Help</a>
 			          		</div>
 			          	</div>
 			          	<a class="kleroterion-btn popup-with-zoom-anim" href="#que-es"><span> </span></a>
 			    <div id="que-es" class="mfp-hide">
-					<h2 lang="en"> what is the background image?</h2>
+					<h2 lang="en">What is the background image?</h2>
 <p lang="en"> The background image is a Ekklesiasterion (ἐκκλησιαστήριον), the auditorium where the Greek Assembly met.</p>
 <p lang="en"> Ancient Greeks knew that corruption posed a serious threat to their judicial system. To minimize such risk, juries were made of tens or hundreds of people randomly chosen shortly before the trial. A judge or a small court could be bribed. It’s harder to bribe a crowd. But how can a large jury deliberate and issue a verdict? How can someone who is not an expert in forensic techniques evaluate complex evidence?</p>
 <p lang="en">Athenian jury system relied on reputation. Jurors defined their vote by following their trusted experts. The shape of the ekklesiasterion was optimized for each citizen to see all the others and quickly find their trusted expert. This is how the Athenian judicial system enjoyed the advantages of a reputation system and low corruption.</p>
@@ -432,7 +431,7 @@ $mensaje="
 <h3 lang="en">Can you write?</h3> <p lang="en">Help us translate our website into your language!</p>
 
 
-<h3 lang="en">There are many other ways in which you can help.<br/> Share it! Help us spread the word!</h3>
+<h3 lang="en">There are many other ways in which you can help. Share it! Help us spread the word!</h3>
 									<div class="footer-icons">
 										<ul class="soc_icons unstyled-list list-inline">
 										<li><a href="https://www.facebook.com/CrowdJury"><i class="icon_1"></i></a></li>
@@ -465,8 +464,8 @@ $mensaje="
 	 	   <div id="contact" class="feedback">
 	 	   		<div class="container">
 	 	   			<div class="feed-head">
-	 	 			<h3>Join Us </h3>
- 					<p>Leave us your message, and join us.</p>
+	 	 			<h3 lang="en">Join Us</h3>
+ 					<p lang="en">Leave us your message, and join us.</p>
 	 	 		</div>
 	 	 		<div class="feed-contact">
 				 	 			<div class="col-md-8 contact-form">

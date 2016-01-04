@@ -261,7 +261,7 @@ $mensaje="
  	<div id="portfolio" class="potrfolio-content">
  		<div class="container">
  			<div class="port-head">
- 				<h3>Where CrowdJury can help</h3>
+ 				<h3 lang="en">Where CrowdJury can help</h3>
  			
  			</div>
 					<script>
@@ -343,7 +343,7 @@ $mensaje="
 					                		</div>
 					                		<div class="recent-news-grid-right">
 					                			<h2 lang="en">Countries</h2>
-					                			<p lang="en"> 
+					                			<p lang="en"> The formal judicial system of countries like Liberland
 					                			</p>
  					                		</div>
 					                		<div class="clearfix"> </div>
@@ -426,7 +426,7 @@ $mensaje="
 					<link href="../css/popuo-box.css" rel="stylesheet" type="text/css" media="all"/>
 					<script src="../js/jquery.magnific-popup.js" type="text/javascript"></script>
 					<!---//pop-up-box---->
-				 <a class="slide-btn popup-with-zoom-anim" href="#small-dialog">HOW?</a>
+				 <a class="slide-btn popup-with-zoom-anim" href="#small-dialog" lang="en">HOW?</a>
 				<div id="small-dialog" class="mfp-hide">
 					<h3 lang="en">Are you a dev?</h3> <p lang="en">Help us, code CrowdJury!</p>
 <h3 lang="en">Are you a video maker?</h3> <p lang="en">Help us, make a short video to explain our goal.</p>
@@ -506,7 +506,7 @@ $mensaje="
 							<div class="logo2">
 								   <img src="../images/logo.svg" alt="CrowdJury logo" width="70%"></div>
 									<div class="copy-right">
-								<p>Let's build a world of justice together</p>
+								<p lang="en">Let's build a world of justice together</p>
 							</div>								
 							<div class="clearfix"> </div>
 						</div>	

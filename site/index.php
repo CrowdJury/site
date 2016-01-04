@@ -132,7 +132,7 @@ $mensaje="
 							<ul class="top-nav">
 								<li class="active"><a href="../#home" class="scroll">Home </a></li>
 								<li><a href="../#about" class="scroll" lang="en">What Is It</a></li>
-								<li><a href="../#services" class="scroll" lang="en">How it works</a></li>
+								<li><a href="../#services" class="scroll" lang="en">How It works</a></li>
 								<li><a href="../#portfolio" class="scroll" lang="en">How It Helps</a></li>
 								<li><a href="../#team" class="scroll" lang="en">Team</a></li>
 								<li><a href="../#contact" class="scroll" lang="en">Contact</a></li>

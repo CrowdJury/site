@@ -137,7 +137,7 @@ $mensaje="
 								<li><a href="../#team" class="scroll" lang="en">Team</a></li>
 								<li><a href="../#contact" class="scroll" lang="en">Contact</a></li>
 		<li>					
-					<a href="#" lang="en" onclick="window.lang.change('es'); return false;">	<button  lang="en" type="button" class="btn btn-la">
+					<a href="#" onclick="window.lang.change('es'); return false;">	<button  lang="en" type="button" class="btn btn-la">
   <span class="glyphicon glyphicon-globe" aria-hidden="true"></span> Español
 </button>	</a></li>								
 								

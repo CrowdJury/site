@@ -193,7 +193,7 @@ $mensaje="
 							</div><div class="col-md-12 text-center">					
 							<div class="col-md-8">
 							<h4 lang="en">Do well by doing good</h4>
-<p lang="en">Jurors and Researchers from the crowd are rewarded with CrowdJury Coins. You help do good, you earn money.</p>
+<p lang="en">Jurors and Researchers from the crowd are rewarded in Bitcoin. You help do good, you earn money.</p>
 					</div>
 				<div class="col-md-4">
 					<img src="../images/TOS-coins-UI.png" width="75%" alt="CrowdJury plataform"></div>

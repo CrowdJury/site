@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 if(isset($_POST['boton'])){
  if(!empty($_POST['name']) AND !empty($_POST['email'])){
 
@@ -37,7 +37,7 @@ $mensaje="
 <!DOCTYPE HTML>
 	<html>
 	<head>
-		<title>CrowdJury - Justice For All</title>
+		<title>Crowdjury - Justice For All</title>
 		<!-- Seo Position and Social -->
 		<meta http-equiv="Content-Type" content="text/html"; charset="utf-8" />
 	<meta name="description" content="A Crowdsourced Justice system for the collaboration era. An Open Source Project.">
@@ -238,7 +238,7 @@ $mensaje="
        					</div>
        				<div class="col-md-4 service_grid">
        					<img src="images/Veredicto.svg" alt="Veredict">
-       					<h3 lang="en">Veredict</h3>
+       					<h3 lang="en">Verdict</h3>
 				<p lang="en">A collective jury of randomly selected users decides whether the defendant is guilty or not.</p>      				</div>
 </div>
 <div class="col-md-6 col-md-offset-3 service_grid text-center">
